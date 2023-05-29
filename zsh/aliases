@@ -1,0 +1,8 @@
+alias ls=exa
+alias vim=nvim
+alias history='history -E'
+
+alias ll='ls -lah'
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'
