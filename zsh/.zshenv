@@ -28,3 +28,4 @@ export PATH=$N_PREFIX/bin:$PATH
 
 export EDITOR="nvim"
 export VISUAL="nvim"
+. "$HOME/.cargo/env"
