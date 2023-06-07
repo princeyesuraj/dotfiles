@@ -6,7 +6,7 @@ This is my personal dotfies.
 
 1. macos
 2. brew
-3. starship
+3. powerlevel10k
 4. iterm2
 5. pyenv
 6. openjdk
