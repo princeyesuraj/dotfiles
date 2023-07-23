@@ -28,6 +28,7 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/plat
 export N_PREFIX=$HOME/.n
 export PATH=$N_PREFIX/bin:$PATH
 
+export PATH="/opt/homebrew/opt/postgresql@15/bin:$PATH"
 
 export EDITOR="nvim"
 export VISUAL="nvim"
