@@ -1,4 +1,4 @@
-alias ls=exa
+alias ls=lsd
 alias vim=nvim
 alias history='history -E'
 

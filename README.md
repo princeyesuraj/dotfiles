@@ -15,7 +15,7 @@ This is my personal dotfies.
 9. neovim
 10. android sdk
 11. ripgrep
-12. exa
+12. lsd
 13. fzf
 14. zsh-completions
 15. zsh-syntax-highlighting

@@ -20,7 +20,7 @@ export SAVEHIST=10000
 
 export HISTTIMEFORMAT="[%F %T] "
 
-export JAVA_HOME=$(/usr/libexec/java_home -v17)
+export JAVA_HOME=$(/usr/libexec/java_home -v21)
 
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools
@@ -28,7 +28,7 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/plat
 export N_PREFIX=$HOME/.n
 export PATH=$N_PREFIX/bin:$PATH
 
-export PATH="/opt/homebrew/opt/postgresql@15/bin:$PATH"
+export PATH="/opt/homebrew/opt/postgresql@16/bin:$PATH"
 
 export EDITOR="nvim"
 export VISUAL="nvim"
