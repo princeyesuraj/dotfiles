@@ -1,6 +1,6 @@
 # dotfiles
 
-This is my personal dotfies. 
+This is my personal dotfiles. 
 
 ## Tools
 
