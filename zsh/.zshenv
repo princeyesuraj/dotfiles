@@ -20,7 +20,7 @@ export SAVEHIST=10000
 
 export HISTTIMEFORMAT="[%F %T] "
 
-export JAVA_HOME=$(/usr/libexec/java_home -v21)
+export PATH="$HOME/.jenv/bin:$PATH"
 
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools

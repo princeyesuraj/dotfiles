@@ -9,7 +9,7 @@ This is my personal dotfiles.
 3. powerlevel10k
 4. iterm2
 5. pyenv
-6. openjdk
+6. jenv
 7. n
 8. zsh
 9. neovim
