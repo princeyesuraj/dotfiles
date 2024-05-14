@@ -33,3 +33,6 @@ export PATH="/opt/homebrew/opt/postgresql@16/bin:$PATH"
 export EDITOR="nvim"
 export VISUAL="nvim"
 . "$HOME/.cargo/env"
+export CHROME_EXECUTABLE="/Applications/Brave Browser.app/Contents/MacOS/Brave Browser"
+export PATH=$HOME/dev/flutter/bin:$PATH
+export HOMEBREW_NO_ANALYTICS=1
